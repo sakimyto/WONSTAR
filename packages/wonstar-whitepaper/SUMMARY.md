@@ -6,6 +6,7 @@
 
 - [Wonstar NFT](nft/wonstar-nft.md)
 
-## Wonstarの特徴
+## Wonstarについて
 
-- [Wonstarの基本的な特徴](features/basic-features.md)
+- [Wonstarの世界](features/world.md)
+- [Wonstarの特徴](features/basic-features.md)
