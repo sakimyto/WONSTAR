@@ -10,3 +10,7 @@
 
 - [Wonstarの世界](features/world.md)
 - [Wonstarの特徴](features/basic-features.md)
+
+## その他
+
+- [変更履歴](change-log.md)
