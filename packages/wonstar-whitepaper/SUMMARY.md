@@ -13,4 +13,4 @@
 
 ## その他
 
-- [変更履歴](change-log.md)
+- [更新履歴](change-log.md)
