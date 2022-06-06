@@ -6,6 +6,7 @@
 
 - [WONSTARの世界](features/world.md)
 - [WONSTARの特徴](features/basic-features.md)
+- [WONSTAR世界におけるNFT](features/setting-nft.md)
 
 ## NFT
 
