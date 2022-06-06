@@ -14,6 +14,12 @@
 - [ゲームデータとして](nft/game.md)
 - [アートコレクションとして](nft/collection.md)
 
+## トークノミクス
+
+- [トークン種類](toknomics/overview.md)
+- [WVT](toknomics/wvt.md)
+- [WRT](toknomics/wrt.md)
+
 ## その他
 
 - [更新履歴](change-log.md)
