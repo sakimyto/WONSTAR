@@ -1,5 +1,5 @@
 const projectConfig = {
-  nftName: 'Wonstar',
+  nftName: 'WONSTAR',
 
   siteDomain:
     process.env.NEXT_PUBLIC_APP_ENV === 'production'
@@ -15,15 +15,15 @@ const projectConfig = {
       ? 'https://testnet.wonstar.xyz'
       : 'http://localhost:3000',
 
-  siteDescription: 'Wonstar is the NFT game of exciting battle system with earning.',
+  siteDescription: 'WONSTAR is the NFT game of exciting battle system with earning.',
 
   ogImagePath: '/image/logo.png',
 
-  twitterUsername: '@0xWonstar',
+  twitterUsername: '@0xWONSTAR',
 
-  twitterUrl: 'https://twitter.com/0xWonstar',
+  twitterUrl: 'https://twitter.com/0xWONSTAR',
 
-  githubUrl: 'https://github.com/sakimyto/Wonstar',
+  githubUrl: 'https://github.com/sakimyto/WONSTAR',
 
   discordUrl: 'https://discord.gg/WdsSy7Bu',
 };

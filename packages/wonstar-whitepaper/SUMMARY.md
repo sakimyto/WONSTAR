@@ -1,15 +1,18 @@
 # Table of contents
 
-- [Wonstarとは](README.md)
+- [WONSTARとは](README.md)
+
+## WONSTARについて
+
+- [WONSTARの世界](features/world.md)
+- [WONSTARの特徴](features/basic-features.md)
+- [WONSTAR世界におけるNFT](features/setting-nft.md)
 
 ## NFT
 
-- [Wonstar NFT](nft/wonstar-nft.md)
-
-## Wonstarについて
-
-- [Wonstarの世界](features/world.md)
-- [Wonstarの特徴](features/basic-features.md)
+- [WONSTAR NFTの特徴](nft/overview.md)
+- [ゲームデータとして](nft/game.md)
+- [アートコレクションとして](nft/collection.md)
 
 ## その他
 
