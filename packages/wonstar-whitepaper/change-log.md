@@ -1,14 +1,18 @@
 # 更新履歴
 
+## 0.1.3
+
+- 修正: WONSTARのつづりを統一
+
 ## 0.1.2
 
 - 追加: 更新履歴
 
 ## 0.1.1
 
-- 追加: WonstarNFT概要
-- 追加: Wonstarの世界
-- 追加: Wonstarの特徴
+- 追加: WONSTARNFT概要
+- 追加: WONSTARの世界
+- 追加: WONSTARの特徴
 
 ## 0.1.0
 

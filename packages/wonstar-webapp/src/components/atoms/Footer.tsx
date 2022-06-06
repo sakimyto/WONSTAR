@@ -5,7 +5,7 @@ import projectConfig from '@/config/projectConfig';
 const Footer: NextPage = () => (
   <footer className='p-4 text-center'>
     <p className='text-xs'>
-      © 2022 <a href={projectConfig.twitterUrl}>Wonstar.</a>
+      © 2022 <a href={projectConfig.twitterUrl}>WONSTAR.</a>
     </p>
   </footer>
 );
