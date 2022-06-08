@@ -26,6 +26,8 @@ const projectConfig = {
   githubUrl: 'https://github.com/sakimyto/WONSTAR',
 
   discordUrl: 'https://discord.gg/WdsSy7Bu',
+
+  whitepaperUrl: 'https://whitepaper.wonstar.xyz/',
 };
 
 export default projectConfig;
