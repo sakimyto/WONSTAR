@@ -1,8 +1,9 @@
 import { NextPage } from 'next';
 
-import ButtonLinkDiscord from '@/components/atoms/ButtonLinkDiscord';
+// import ButtonLinkDiscord from '@/components/atoms/ButtonLinkDiscord';
 import ButtonLinkGithub from '@/components/atoms/ButtonLinkGithub';
 import ButtonLinkTwitter from '@/components/atoms/ButtonLinkTwitter';
+import ButtonLinkWhitepaper from '@/components/atoms/ButtonLinkWhitepaper';
 import Footer from '@/components/atoms/Footer';
 import Section from '@/components/atoms/Section';
 import MyHead from '@/components/molecules/MyHead';
@@ -17,7 +18,8 @@ const Index: NextPage = () => (
           <h1 className='mb-4 text-4xl font-bold'>{projectConfig.nftName}</h1>
           <p className='mb-4 text-lg font-bold'>{projectConfig.siteDescription}</p>
           <div className='flex items-center space-x-4'>
-            <ButtonLinkDiscord />
+            <ButtonLinkWhitepaper />
+            {/* <ButtonLinkDiscord /> */}
             <ButtonLinkTwitter />
             <ButtonLinkGithub />
           </div>

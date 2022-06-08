@@ -22,4 +22,6 @@
 
 ## その他
 
-- [更新履歴](change-log.md)
+- [リクルーティング](others/recruiting.md)
+- [関連リンク](others/social-links.md)
+- [更新履歴](others/change-log.md)
