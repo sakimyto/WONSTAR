@@ -1,6 +1,6 @@
 import { NextPage } from 'next';
 
-import ButtonLinkDiscord from '@/components/atoms/ButtonLinkDiscord';
+// import ButtonLinkDiscord from '@/components/atoms/ButtonLinkDiscord';
 import ButtonLinkGithub from '@/components/atoms/ButtonLinkGithub';
 import ButtonLinkTwitter from '@/components/atoms/ButtonLinkTwitter';
 import ButtonLinkWhitepaper from '@/components/atoms/ButtonLinkWhitepaper';
@@ -19,7 +19,7 @@ const Index: NextPage = () => (
           <p className='mb-4 text-lg font-bold'>{projectConfig.siteDescription}</p>
           <div className='flex items-center space-x-4'>
             <ButtonLinkWhitepaper />
-            <ButtonLinkDiscord />
+            {/* <ButtonLinkDiscord /> */}
             <ButtonLinkTwitter />
             <ButtonLinkGithub />
           </div>
