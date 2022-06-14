@@ -1,5 +1,9 @@
 # 更新履歴
 
+## 0.2.0
+
+- 追加: PFP(Profile-Picture)ではなくPTP(Partner-Picture)である
+
 ## 0.1.9
 
 - アップデート: ゲームデータとして機能するためのWONSTAR NFTの設計について
