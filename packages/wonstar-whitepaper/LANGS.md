@@ -1,4 +1,4 @@
-#
+# WONSTAR Whitepaper
 
 ![WONSTAR](./images/banner.png)
 
