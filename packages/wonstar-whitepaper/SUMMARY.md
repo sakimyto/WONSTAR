@@ -1,27 +1,39 @@
 # Table of contents
 
-- [WONSTARとは](README.md)
-
-## WONSTARについて
-
-- [WONSTARの世界](features/world.md)
-- [WONSTARの特徴](features/basic-features.md)
-- [WONSTAR世界におけるNFT](features/setting-nft.md)
-
-## NFT
-
-- [WONSTAR NFTの特徴](nft/overview.md)
-- [ゲームデータとして](nft/game.md)
-- [アートコレクションとして](nft/collection.md)
-
-## トークノミクス
-
-- [トークン種類](toknomics/overview.md)
-- [WVT](toknomics/wvt.md)
-- [WRT](toknomics/wrt.md)
-
-## その他
-
-- [リクルーティング](others/recruiting.md)
-- [関連リンク](others/social-links.md)
-- [更新履歴](others/change-log.md)
+- [WONSTAR Whitepaper](README.md)
+- English
+  - [About WONSTAR](en/README.md)
+  - WONSTAR world
+    - [WONSTAR world](en/features/world.md)
+    - [WONSTAR features](en/features/basic-features.md)
+    - [NFT in WONSTAR world](en/features/setting-nft.md)
+  - NFT
+    - [WONSTAR NFT](en/nft/overview.md)
+    - [As game data](en/nft/game.md)
+    - [As an art collection](en/nft/collection.md)
+  - Tokenomics
+    - [Overview](en/toknomics/overview.md)
+    - [WVT](en/toknomics/wvt.md)
+    - [WRT](en/toknomics/wrt.md)
+  - Others
+    - [Recruiting](en/others/recruiting.md)
+    - [Related links](en/others/social-links.md)
+    - [Update history](en/others/change-log.md)
+- 日本語
+  - [WONSTARとは](ja/README.md)
+  - WONSTARの世界
+    - [WONSTARの世界](ja/features/world.md)
+    - [WONSTARの特徴](ja/features/basic-features.md)
+    - [WONSTAR世界におけるNFT](ja/features/setting-nft.md)
+  - NFT
+    - [WONSTAR NFTの特徴](ja/nft/overview.md)
+    - [ゲームデータとして](ja/nft/game.md)
+    - [アートコレクションとして](ja/nft/collection.md)
+  - トークノミクス
+    - [トークン種類](ja/toknomics/overview.md)
+    - [WVT](ja/toknomics/wvt.md)
+    - [WRT](ja/toknomics/wrt.md)
+  - その他
+    - [リクルーティング](ja/others/recruiting.md)
+    - [関連リンク](ja/others/social-links.md)
+    - [更新履歴](ja/others/change-log.md)
