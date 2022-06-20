@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Languages / 言語](LANGS.md)
+- [WONSTAR Whitepaper](README.md)
 - English
   - [About WONSTAR](en/README.md)
   - WONSTAR world
