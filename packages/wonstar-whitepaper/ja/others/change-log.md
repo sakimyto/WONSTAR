@@ -1,5 +1,9 @@
 # 更新履歴
 
+## 0.2.1
+
+- 追加: 英語バージョン追加
+
 ## 0.2.0
 
 - 追加: PFP(Profile-Picture)ではなくPTP(Partner-Picture)である
