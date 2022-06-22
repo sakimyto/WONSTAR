@@ -10,15 +10,16 @@
   - NFT
     - [WONSTAR NFT](en/nft/overview.md)
     - [As game data](en/nft/game.md)
-    - [As an art collection](en/nft/collection.md)
+    - [As an art collection](en/nft/art.md)
+    - [Plan to split the collection](en/nft/collection.md)
   - Tokenomics
     - [Overview](en/toknomics/overview.md)
     - [WVT](en/toknomics/wvt.md)
     - [WRT](en/toknomics/wrt.md)
   - Others
     - [Recruiting](en/others/recruiting.md)
-    - [Related links](en/others/social-links.md)
-    - [Update history](en/others/change-log.md)
+    - [Related links](en/others/links.md)
+    - [Update history](en/others/history.md)
 - 日本語
   - [WONSTARとは](ja/README.md)
   - WONSTARの世界
@@ -29,11 +30,12 @@
     - [WONSTAR NFTの特徴](ja/nft/overview.md)
     - [ゲームデータとして](ja/nft/game.md)
     - [アートコレクションとして](ja/nft/collection.md)
+    - [コレクションの分割](ja/nft/collection.md)
   - トークノミクス
     - [トークン種類](ja/toknomics/overview.md)
     - [WVT](ja/toknomics/wvt.md)
     - [WRT](ja/toknomics/wrt.md)
   - その他
     - [リクルーティング](ja/others/recruiting.md)
-    - [関連リンク](ja/others/social-links.md)
-    - [更新履歴](ja/others/change-log.md)
+    - [関連リンク](ja/others/links.md)
+    - [更新履歴](ja/others/history.md)
