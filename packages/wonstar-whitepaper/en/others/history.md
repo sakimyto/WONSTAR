@@ -1,5 +1,9 @@
 # Update history
 
+## 0.2.2
+
+- Add: plan to split the collection
+
 ## 0.2.1
 
 - Add: english version
