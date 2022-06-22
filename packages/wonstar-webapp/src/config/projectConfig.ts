@@ -25,7 +25,7 @@ const projectConfig = {
 
   githubUrl: 'https://github.com/sakimyto/WONSTAR',
 
-  discordUrl: 'https://discord.gg/WdsSy7Bu',
+  discordUrl: 'https://discord.gg/m3wVXwvE5C',
 
   whitepaperUrl: 'https://whitepaper.wonstar.xyz/',
 };
